@@ -23,5 +23,6 @@ void swap(listint_t **h, listint_t **node1, listint_t *node2);
 void insertion_sort_list(listint_t **list);
 void selection_sort(int *array, size_t size);
 void swap_int(int *num1, int *num2);
+void quick_sort(int *array, size_t size);
 
 #endif
